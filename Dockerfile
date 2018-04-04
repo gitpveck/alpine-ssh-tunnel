@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:latest
 MAINTAINER Luis Alonzo <wichon@gmail.com>
 LABEL Description="Easy to use SSH Tunnel based in the Alpine Linux docker image"
 
